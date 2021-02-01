@@ -1,0 +1,18 @@
+# PAMM - KDE
+trj_filename = fiberXXX.traj
+distance = "minkowski"
+size = 2000
+p = 2
+generate_grid = true
+savegrid = "grid_fiberXXX"
+
+# PAMM - Clustering
+d = 3
+fspread = 0.3
+ngrid = 2000
+qs = 1
+o = "pamm"
+trajectory = fiberXXX.traj
+readgrid = "grid_fiberXXX"
+merger = 0.005
+bootstrap = 73
