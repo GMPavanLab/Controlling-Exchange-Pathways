@@ -1,4 +1,0 @@
-Traj reading values:
-{"START": 0, "END": 1001, "STRIDE": 1}
-SOAP parameters:
-{"species": ["N"], "periodic": true, "rcut": 8, "nmax": 8, "lmax": 8, "average": "off"}
