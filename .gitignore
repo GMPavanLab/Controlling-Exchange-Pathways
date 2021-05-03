@@ -98,4 +98,5 @@ ENV/
 # pytest
 .pytest_cache/
 
-
+# old folders
+OLD/

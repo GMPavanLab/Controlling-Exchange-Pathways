@@ -1,0 +1,9 @@
+#include "martini.itp"
+#include "fiber3.itp"
+
+[ system ]
+40 NEW FIBRA - con punte
+
+[ molecules ]
+BTA 40
+OCT 45656
