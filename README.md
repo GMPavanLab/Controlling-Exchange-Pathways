@@ -1,7 +1,7 @@
 # Controlling-Exchange-Pathways
-The repo is intended for the storing of scripts and data used in the paper "Controlling Exchange Pathways in Dynamic Supramolecular Polymers by Controlling Defects" **(current status: Under revision)**.
+The repo is intended for the storing of scripts and data used in the paper "Controlling Exchange Pathways in Dynamic Supramolecular Polymers by Controlling Defects" **(current status: Published)**.
 
-The paper is currently submitted to the preprint server ChemRxiv, at [paper](https://chemrxiv.org/s/db6eefa9556e78382f86).
+The paper is currently published in **ACS Nano**, at [paper](https://pubs.acs.org/doi/10.1021/acsnano.1c01398).
 The repository is organized as follows:
 
 ### /supervisedClustering/
@@ -14,5 +14,5 @@ folder containing the Gromacs input files for reproducing the unbias MD trajecto
 ### /biasMD/
 folder containing the PLUMED input files for reproducing enhanced sampling dynamics as discussed in the paper.
 
-### updating ...
-We apologies, folders and additional data will be added following the paper submission  procedures ..
+### Others
+Others information are avaliable as Supporting Information (SI) of the main paper.
